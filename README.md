@@ -8,6 +8,8 @@ This is the PyTorch implementation for the ECCV 2020 paper: [Stochastic Fine-gra
 
 ```
 pip install git+https://github.com/zheniu/stochastic-cslr
+
+conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=10.2 cudnn=7.6.5 -c pytorch
 ```
 
 Also, you need to install `sclite` for evaluation. Take a look at step 2 for instructions.
